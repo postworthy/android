@@ -14,7 +14,7 @@
            fetch="ssh://git@github.com" />
   
   <remote  name="private"
-           fetch="ssh://git@github.com" />
+           fetch="https://github.com" />
   
   <default revision="refs/heads/cm-13.0"
            remote="github"
