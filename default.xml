@@ -88,7 +88,7 @@
   <project path="external/libavc" name="CyanogenMod/android_external_libavc" groups="pdk" />
   <project path="external/libncurses" name="CyanogenMod/android_external_libncurses" />
   <project path="external/libnetfilter_conntrack" name="CyanogenMod/android_external_libnetfilter_conntrack" />
-  <project path="external/libnfc-nci" name="postworthy/android-external_libnfc-nci" groups="pdk" revision="master" />
+  <project path="external/libnfc-nci" name="postworthy/android_vendor_nxp-nfc_opensource_libnfc-nci" groups="pdk" revision="master" />
   <project path="external/libnfc-nxp" name="CyanogenMod/android_external_libnfc-nxp" groups="pdk" />
   <project path="external/libnfnetlink" name="CyanogenMod/android_external_libnfnetlink" />
   <project path="external/libphonenumbergoogle" name="CyanogenMod/android_external_libphonenumbergoogle" />
