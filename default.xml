@@ -11,7 +11,7 @@
            review="review.cyanogenmod.org" />
 
   <remote  name="github2"
-           fetch="ssh://git@github.com" />
+           fetch=".." />
   
   <remote  name="private"
            fetch="https://github.com" />
