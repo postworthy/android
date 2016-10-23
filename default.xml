@@ -12,9 +12,6 @@
 
   <remote  name="private"
            fetch="ssh://git@github.com" />
-
-  <remote  name="my_nfc"
-           fetch="https://github.com/postworthy/android-external_libnfc-nci.git" />
   
   <default revision="refs/heads/cm-13.0"
            remote="github"
@@ -91,7 +88,7 @@
   <project path="external/libavc" name="CyanogenMod/android_external_libavc" groups="pdk" />
   <project path="external/libncurses" name="CyanogenMod/android_external_libncurses" />
   <project path="external/libnetfilter_conntrack" name="CyanogenMod/android_external_libnetfilter_conntrack" />
-  <project path="external/libnfc-nci" name="CyanogenMod/android_external_libnfc-nci" groups="pdk" remote="my_nfc" />
+  <project path="external/libnfc-nci" name="postworthy/android-external_libnfc-nci" groups="pdk" />
   <project path="external/libnfc-nxp" name="CyanogenMod/android_external_libnfc-nxp" groups="pdk" />
   <project path="external/libnfnetlink" name="CyanogenMod/android_external_libnfnetlink" />
   <project path="external/libphonenumbergoogle" name="CyanogenMod/android_external_libphonenumbergoogle" />
